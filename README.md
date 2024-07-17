@@ -35,7 +35,7 @@ The Chess App is a real-time platform that allows users to engage in one-to-one 
 ## Getting Started
 
 ## Screenshots
-![](./snapshots/mainFlex.png)
+![](./snapshots/MainFlex.png)
 
 ![](./snapshots/movesDisplayPic.png)
 
