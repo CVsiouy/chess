@@ -22,7 +22,7 @@ class Game:                                                                 # ga
                 if (row + col ) % 2 == 0:                                   # common sense ki kaise pattern bna
                     color = (234, 235, 200) # light green
                 else:                                                       # rect function has 4 parameters | first parameter is where we are going to start on x-axis
-                    color = (119, 154, 88) # dark green                     # second parameter is where we are going to start on y-axis     
+                    color = (105, 94, 46) # dark green                     # second parameter is where we are going to start on y-axis     
                                                                             
                 rect = (col * SQSIZE, row * SQSIZE, SQSIZE, SQSIZE)         # last two params(short of parameters) are going to be width and height                    
                 pygame.draw.rect(surface, color, rect)                      # Pygame uses Rect objects to store and manipulate rectangular areas
